@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Makanan Khas Sasak</string>
+    <string name="menu_name">Menu</string>
+    <string name="menu_detail">Detail Menu</string>
+    <string name="share">Share</string>
+    <string name="menu_title">Menu Makanan Khas Sasak</string>
+    <string name="location">Lokasi</string>
+    <string name="empty_maps">Google Maps Belum Terinstal. Install Terlebih dahulu.</string>
+    <string name="share_text">Menu makanan khas sasak %s dengan titik kordinat lokasi penjual %s</string>
+    <string name="about">Tentang</string>
+    <string name="name">Muhamad Aprizal Hardi</string>
+    <string name="from">Kabupaten Lombok Tengah, Nusa Tenggara Barat</string>
+    <string name="invite">Bergabung sejak 14 Jun 2019</string>
+    <string name="xp">3279 XP</string>
+    <string name="show_profile">Tampilkan profil</string>
+    <string name="check_internet">Periksa Koneksi Internet Anda</string>
+    <string name="location_on_google">Tunggu, Lokasi Penjual akan di arahkan menggunakan Google Maps</string>
+    <string name="open_browser">Profile Akun dicoding</string>
+</resources>
